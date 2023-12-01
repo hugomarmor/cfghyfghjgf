@@ -7,6 +7,7 @@ package prueba.login2hugo;
 import java.awt.Image;
 import javax.swing.ImageIcon;
 import javax.swing.JLabel;
+
 /**
  *
  * @author Alumno
